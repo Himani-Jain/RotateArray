@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="rotateArray:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>rotateArray</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="rotateArray-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="rotateArray:war exploded" />
+    </root>
+  </artifact>
+</component>
