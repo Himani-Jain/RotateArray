@@ -10,11 +10,13 @@ an error which the code example should handle gracefully.
 
 #Approach:
 Main Function: src/main/java/com/himani/rotatearray/Main.java
+
 Test Function: src/test/java/com/himani/rotatearray/MainTest.java
 
 #Normal Solution:
 Time Complexity: O(N)
 Space Complexity: O(N)
+
 I created a new function called rotateArray to rotate the given array and number of positions. Firstly, I created a new
 array to store the rotated values from the original array, this was done by adding the number of rotations to the current 
 index of the array. If that value is greater than array length we will divide the number by array length and the remainder 
@@ -24,6 +26,7 @@ check my code.
 #Optimized Solution:
 Time Complexity: O(N)
 Space Complexity: O(1) -> No extra space
+
 I created a new function called reverseRotateArray to rotate the given array and number of positions. In this approach I 
 did not use any extra space, hence it is more efficient. I have defined a new function called reverse to reverse the array 
 from given start and end index.
