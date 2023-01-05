@@ -6,7 +6,10 @@
   <component name="ChangeListManager">
     <list default="true" id="da01a9f1-6cd5-49ab-a80e-9a4401dd212c" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ReadMe.md" beforeDir="false" afterPath="$PROJECT_DIR$/ReadMe.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/himani/rotatearray/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/himani/rotatearray/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/himani/rotatearray/MainTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/himani/rotatearray/SolutionTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,9 +54,9 @@
       <recent name="com.himani.rotatearray" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.MainTest">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.himani.rotatearray.Main" />
+  <component name="RunManager" selected="JUnit.SolutionTest">
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.himani.rotatearray.Solution" />
       <module name="rotateArray" />
       <extension name="coverage">
         <pattern>
@@ -65,7 +68,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MainTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="SolutionTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="rotateArray" />
       <extension name="coverage">
         <pattern>
@@ -74,13 +77,13 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.himani.rotatearray" />
-      <option name="MAIN_CLASS_NAME" value="com.himani.rotatearray.MainTest" />
+      <option name="MAIN_CLASS_NAME" value="com.himani.rotatearray.SolutionTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MainTest.negativeNumber" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="SolutionTest.negativeNumber" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="rotateArray" />
       <extension name="coverage">
         <pattern>
@@ -89,14 +92,14 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.himani.rotatearray" />
-      <option name="MAIN_CLASS_NAME" value="com.himani.rotatearray.MainTest" />
+      <option name="MAIN_CLASS_NAME" value="com.himani.rotatearray.SolutionTest" />
       <option name="METHOD_NAME" value="negativeNumber" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MainTest.nullArray" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="SolutionTest.nullArray" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="rotateArray" />
       <extension name="coverage">
         <pattern>
@@ -105,14 +108,14 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.himani.rotatearray" />
-      <option name="MAIN_CLASS_NAME" value="com.himani.rotatearray.MainTest" />
+      <option name="MAIN_CLASS_NAME" value="com.himani.rotatearray.SolutionTest" />
       <option name="METHOD_NAME" value="nullArray" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MainTest.testMultiply" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="SolutionTest.optimizedWorkingTestCase1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="rotateArray" />
       <extension name="coverage">
         <pattern>
@@ -121,20 +124,27 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.himani.rotatearray" />
-      <option name="MAIN_CLASS_NAME" value="com.himani.rotatearray.MainTest" />
-      <option name="METHOD_NAME" value="testMultiply" />
+      <option name="MAIN_CLASS_NAME" value="com.himani.rotatearray.SolutionTest" />
+      <option name="METHOD_NAME" value="optimizedWorkingTestCase1" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="Application.Solution" />
+      <item itemvalue="JUnit.SolutionTest" />
+      <item itemvalue="JUnit.SolutionTest.negativeNumber" />
+      <item itemvalue="JUnit.SolutionTest.nullArray" />
+      <item itemvalue="JUnit.SolutionTest.optimizedWorkingTestCase1" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.MainTest" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="JUnit.MainTest.nullArray" />
-        <item itemvalue="JUnit.MainTest.negativeNumber" />
-        <item itemvalue="JUnit.MainTest.testMultiply" />
+        <item itemvalue="JUnit.SolutionTest" />
+        <item itemvalue="JUnit.SolutionTest.optimizedWorkingTestCase1" />
+        <item itemvalue="Application.Solution" />
+        <item itemvalue="JUnit.SolutionTest.nullArray" />
+        <item itemvalue="JUnit.SolutionTest.negativeNumber" />
       </list>
     </recent_temporary>
   </component>
@@ -146,7 +156,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1672872957026</updated>
-      <workItem from="1672872962149" duration="2966000" />
+      <workItem from="1672872962149" duration="6532000" />
     </task>
     <servers />
   </component>
