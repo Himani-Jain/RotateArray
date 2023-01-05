@@ -1,6 +1,7 @@
 # rotateArray
 
 #Question:
+
 The problem we would like you to solve deals with an array of integers. We want to rotate these integers to a specified 
 number of positions to the left. If for example you have an array of integers [1,2,3,4,5,6,7] and we would like to rotate 
 2 positions to the left, the solution expected would be [3,4,5,6,7,1,2]. Note: the solution should be able to handle a 
@@ -9,11 +10,13 @@ position value greater than the number of integers in the array. If, for example
 an error which the code example should handle gracefully.
 
 #Approach:
+
 Main Function: src/main/java/com/himani/rotatearray/Main.java
 
 Test Function: src/test/java/com/himani/rotatearray/MainTest.java
 
 #Normal Solution:
+
 Time Complexity: O(N)
 Space Complexity: O(N)
 
@@ -24,6 +27,7 @@ will be the new index position. I have also added exceptions for the negative va
 check my code.
 
 #Optimized Solution:
+
 Time Complexity: O(N)
 Space Complexity: O(1) -> No extra space
 
